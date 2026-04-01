@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+#login {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#map {
+  height: 90vh;
+}
